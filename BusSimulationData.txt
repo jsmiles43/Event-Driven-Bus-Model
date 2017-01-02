@@ -1,0 +1,2 @@
+Bus Stops		Buses		Time Between Stops		Mean Arrival Rate		Board Time		Total Simulation Time     
+15   			5			5						5						2				8
